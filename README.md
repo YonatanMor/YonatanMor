@@ -1,5 +1,5 @@
 Yonatan Mor
-👋 Hi, I’m @avivsarig!
+👋 Hi, I’m @YonatanMor!
 
 I'm a frondend developer at Belle-AI🚀
 
@@ -39,5 +39,5 @@ I'm a frondend developer at Belle-AI🚀
 💃🏻
 📫 How to reach me:
 📧 Email: Yoni304@gmail.com
-💼 LinkedIn: Aviv Sarig
-🐦 Twitter: @sarig_aviv (Heb account)
+💼 LinkedIn: Yonatan Mor
+🐦 Twitter: @Yonatan Mor (Heb account)
