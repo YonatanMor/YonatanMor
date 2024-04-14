@@ -40,4 +40,4 @@ I'm a frondend developer at Belle-AI🚀
 📫 How to reach me:
 📧 Email: Yoni304@gmail.com
 💼 LinkedIn: Yonatan Mor
-🐦 Twitter: @Yonatan Mor (Heb account)
+🐦 [Instagram](https://www.instagram.com/yonatanmor?igsh=dHRuOHdsdHd5Zmx2)
