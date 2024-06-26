@@ -5,20 +5,12 @@ I'm a frondend developer at Belle-AI🚀
 📍 Based in Israel
 
 🎨 Tech Stack:
+
 ⚛️ React
+
 🧬 TypeScript
 
-<!-- 🐍 Python / FastAPI -->
-
 ⚡ JavaScript / Node.JS / Express.JS
-
-<!-- 🐘 PHP / Laravel -->
-<!-- 👉🏽 C -->
-<!-- 🐘 PostgreSQL / 🐬 MySQL -->
-<!-- 🍃 MongoDB -->
-<!-- 📚 Peewee / ⚗️ SQLalchemy -->
-<!-- 🦦 Mongoose -->
-<!-- 🧪 Pytest / Jest -->
 
 🌲 Git
 
@@ -27,7 +19,7 @@ I'm a frondend developer at Belle-AI🚀
 🐧 Linux / Bash
 
 💼 Professional Background:
-🚀
+
 
 ⚙️ Mechanical Engineer career
 
