@@ -1,4 +1,3 @@
-Yonatan Mor
 👋 Hi, I’m @YonatanMor!
 
 I'm a frondend developer at Belle-AI🚀
