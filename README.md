@@ -6,7 +6,9 @@ I enjoy working on indie projects for my own delight 🙂
 Based in Israel 📍
 <br><br>
 ## 🎨 Tech Stack 
-⚛️ React &nbsp; 🧬 TypeScript &nbsp; 🌬️ tailwindcss &nbsp; ⚡ JavaScript / Node.JS / Express.JS &nbsp; 🎛️ Remix &nbsp; 🔎 PrismaDB &nbsp; 🌲 Git &nbsp;  🐳 Docker &nbsp; 🐧 Linux / Bash
+⚛️ React &nbsp; 🧬 TypeScript &nbsp; 🌬️ tailwindcss &nbsp; ⚡ JavaScript / Node.JS / Express.JS &nbsp; 
+
+🎛️ Remix &nbsp; 🔎 PrismaDB &nbsp; 🌲 Git &nbsp;  🐳 Docker &nbsp; 🐧 Linux / Bash
 <br><br>
 ## 💼 Professional Background
 ⚙️ Mechanical Engineer career
@@ -20,7 +22,9 @@ Based in Israel 📍
 
 ## 🌍 Languages 
 
-🌐 English – Fluent &nbsp; 🐪 Hebrew – Native speaker
+🌐 English – Fluent 
+
+🐪 Hebrew – Native speaker
 
 <br/>
 
