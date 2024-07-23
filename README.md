@@ -8,7 +8,7 @@ Based in Israel 📍
 ## 🎨 Tech Stack 
 ⚛️ React &nbsp; 🧬 TypeScript &nbsp; 🌬️ tailwindcss &nbsp; ⚡ JavaScript / Node.JS / Express.JS &nbsp; 
 
-🎛️ Remix &nbsp; 🔎 PrismaDB &nbsp; 🌲 Git &nbsp;  🐳 Docker &nbsp; 🐧 Linux / Bash
+🎛️ Remix &nbsp; 🔎 PrismaDB &nbsp; 🐘 PostgreSQL &nbsp; 🌲 Git &nbsp;  🐳 Docker &nbsp; 🐧 Linux / Bash
 <br><br>
 ## 💼 Professional Background
 ⚙️ Mechanical Engineer career
