@@ -4,7 +4,7 @@
 
 I also enjoy working on indie projects for my own delight 🙂 
 
-Based in Israel 📍
+📍 Based in Israel 
 <br><br>
 ## 🎨 Tech Stack 
 ⚛️ React &nbsp; 🧬 TypeScript &nbsp; 🌬️ tailwindcss &nbsp; ⚡ JavaScript / Node.JS / Express.JS &nbsp; 
