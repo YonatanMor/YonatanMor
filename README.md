@@ -1,5 +1,5 @@
-# @Yonatan Mor
-👋 Hi, I'm [YonatanMor]
+# Yonatan Mor
+👋 Hi, I'm [@YonatanMor](https://github.com/YonatanMor)
  a frondend developer at Belle-AI 🚀
 
 I enjoy working on indie projects for my own delight 🙂 
