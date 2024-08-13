@@ -2,7 +2,7 @@
 👋 Hi, I'm [@YonatanMor](https://github.com/YonatanMor)
  a frondend developer at Belle-AI 🚀
 
-I enjoy working on indie projects for my own delight 🙂 
+I also enjoy working on indie projects for my own delight 🙂 
 
 Based in Israel 📍
 <br><br>
