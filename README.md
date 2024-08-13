@@ -1,5 +1,6 @@
-# 👋 Hi, I’m @YonatanMor!
-I'm a frondend developer at Belle-AI 🚀
+# @Yonatan Mor
+👋 Hi, I'm [YonatanMor]
+ a frondend developer at Belle-AI 🚀
 
 I enjoy working on indie projects for my own delight 🙂 
 
