@@ -29,7 +29,7 @@ I also enjoy working on indie projects for my own delight 🙂
 
 <br/>
 
-## 📫 How to reach me:
+## 📫 How to reach me
 
 📧 Yoni304@gmail.com
 
