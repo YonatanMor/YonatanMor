@@ -4,7 +4,7 @@
 
 I also enjoy working on indie projects for my own delight 🙂 
 
-📍 Living in Israel 
+ Living in Israel / willing to relocate 📍
 <br><br>
 ## 🎨 Tech Stack 
 ⚛️ React &nbsp; 🧬 TypeScript &nbsp; 🌬️ tailwindcss &nbsp; ⚡ JavaScript / Node.JS / Express.JS &nbsp; 
