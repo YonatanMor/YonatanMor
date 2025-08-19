@@ -1,6 +1,6 @@
 # Yonatan Mor
 👋 Hi, I'm [@YonatanMor](https://github.com/YonatanMor)
- a frondend developer at Belle-AI 🚀
+ a frondend developer at Roeto 🚀
 
 I also enjoy working on indie projects for my own delight 🙂 
 
